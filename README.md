@@ -53,7 +53,7 @@ Por exemplo:
 Para instalar esta API, você precisa ter o SDK do .NET instalado na sua máquina. Você também precisa clonar este repositório usando o comando:
 
 ```bash
-git clone https://github.com/Everton1942/Prova-TPF
+git clone https://github.com/Everton1942/API-CEP
 ```
 
 Depois de clonar o repositório, você pode abrir o projeto no Visual Studio Code ou no Visual Studio e executá-lo usando o comando:
